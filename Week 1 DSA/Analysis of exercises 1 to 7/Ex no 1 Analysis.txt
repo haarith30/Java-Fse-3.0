@@ -1,0 +1,8 @@
+
+1. Time Complexity Analysis:
+   - Add Operation: O(1) if there is space. Resizing takes O(n).
+   - Update Operation: O(1) if accessing by index. O(n) if searching required.
+   - Delete Operation: O(n) due to element shifting.
+
+2. Optimization Discussion:
+   - Arrays provide fast access but are fixed in size. Dynamic arrays or lists can handle resizing better.

@@ -1,0 +1,7 @@
+
+1. Recursive Algorithm Time Complexity:
+   - Naive Recursion (e.g., Fibonacci): O(2^n). Exponential complexity.
+
+2. Optimization Methods:
+   - Memoization: Reduces complexity to O(n) by storing results of subproblems.
+   - Dynamic Programming: Provides O(n) time complexity by iteratively solving subproblems.

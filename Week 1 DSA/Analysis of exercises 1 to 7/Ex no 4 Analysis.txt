@@ -1,0 +1,9 @@
+
+1. Operation Time Complexity:
+   - Add: O(1) if space available; O(n) for resizing.
+   - Search: O(n) due to linear scan.
+   - Traverse: O(n) to visit all elements.
+   - Delete: O(n) due to shifting elements.
+
+2. Array Limitations:
+   - Fixed size and costly resizing. Linked lists are better for dynamic sizes and efficient insertions/deletions.

@@ -1,0 +1,7 @@
+
+1. Sorting Algorithm Performance:
+   - Bubble Sort: O(n^2) performance. Inefficient for large data.
+   - Quick Sort: O(n log n) average, O(n^2) worst case. Generally preferred for larger datasets.
+
+2. Preference Explanation:
+   - Quick Sort is preferred for its better average-case performance and efficiency with large datasets compared to Bubble Sort.

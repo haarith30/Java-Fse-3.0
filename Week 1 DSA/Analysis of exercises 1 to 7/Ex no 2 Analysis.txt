@@ -1,0 +1,8 @@
+
+1. Comparison of Search Algorithms:
+   - Linear Search: O(n) average/worst, O(1) best case.
+   - Binary Search: O(log n) for sorted arrays.
+
+2. Use Case Discussion:
+   - Linear Search: Best for unsorted or small datasets.
+   - Binary Search: Efficient for large, sorted datasets.

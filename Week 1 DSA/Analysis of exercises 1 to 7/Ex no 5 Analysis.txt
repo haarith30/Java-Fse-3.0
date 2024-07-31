@@ -1,0 +1,9 @@
+
+1. Linked List Operation Complexity:
+   - Add: O(1) at head/tail; O(n) in middle.
+   - Search: O(n) as each node is visited.
+   - Traverse: O(n) to visit all nodes.
+   - Delete: O(n) to find and adjust links.
+
+2. Advantages of Linked Lists:
+   - Dynamic size management and efficient insertions/deletions. Arrays are fixed in size and less flexible.
